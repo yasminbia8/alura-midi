@@ -31,3 +31,8 @@ else {
      }
 
      }
+ tecla.onkeyup = function () {
+  tecla.classList.remove(`àtiva`);
+  }
+
+  }
